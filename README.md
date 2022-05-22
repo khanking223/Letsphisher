@@ -1,6 +1,6 @@
-# anonphisher
+# letsphisher
 <p align="center">
-Automated phishing tool made by AnonyminHack5 to phish various sites with 40+ templates and also has an inbuilt ngrok already to easily help you generate your link and send it to your victim. 
+Automated phishing tool made by khan  to phish various sites with 40+ templates and also has an inbuilt ngrok already to easily help you generate your link kingand send it to your victim. 
 Anonphisher tool is made with pure bash script and needs required packages for it to work. 
 </p>
 
@@ -10,7 +10,7 @@ Anonphisher tool is made with pure bash script and needs required packages for i
 <img src="https://camo.githubusercontent.com/dff6081929c533537b5234cf00651c6d6f0248b53625c6324d6f9ee6fc7d9ab0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56657273696f6e2d332e312d726564"/>
 </h1>
 
-# Anonphisher
+# letsphisher
 ![](and.jpg)
 
 # Created by
@@ -43,7 +43,7 @@ This tool has been tested on the following systems:
 
 # New Features
 #### [+] Custom !
-#### [+] Pugb free uc phishing page 2021 !
+#### [+] Pugb free uc phishing page 2022 !
 #### [+] Free fire phishing page !
 #### [+] Latest Login Pages !
 #### [+] 5 Port Forwarding Options !
@@ -73,17 +73,17 @@ To be able to encourage AnonyminHack5 with he's tools, make sure you use and rat
 # Installation in Windows
 **Open up your terminal and clone the repo**
 ```
-git clone https://github.com/TermuxHackz/anonphisher
+git clone https://github.com/khanking223/letsphisher
 cd anonphisher
 bash setup
-bash anonphisher.sh
+bash letsphisher.sh
 ```
 
 # Installation in Termux
 ```
-git clone https://github.com/TermuxHackz/anonphisher
+git clone https://github.com/khanking223/letsphisher
 
-cd anonphisher
+cd letsphisher
 
 bash setup
 
