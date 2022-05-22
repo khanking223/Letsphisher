@@ -17,7 +17,7 @@ clear
 
 echo ""
 echo " FOLLOW MY REPO 🔔 " | lolcat
-xdg-open https://github.com/TermuxHackz 
+xdg-open https://github.com/khanking223 
 echo ""
 
 echo -e "\e[101m Press Enter \e[0m"
@@ -46,7 +46,7 @@ echo ""
 sleep 0.5
 echo -e "\e[101m NOTE: DONT RUN bash install.sh again \e[0m"
 sleep 0.5
-echo "Phishing tool created by AnonyminHack5" | lolcat
+echo "Phishing tool created by khan king" | lolcat
 
 echo ""
 menu() {
